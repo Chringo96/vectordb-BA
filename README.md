@@ -1,0 +1,3 @@
+RAG with OLama2 for local LLM
+Docker for Qdrant to Start
+....

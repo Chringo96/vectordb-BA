@@ -2,4 +2,3 @@ langchain
 sentence_transformers
 torch
 pypdf
-qdrant_client
